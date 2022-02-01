@@ -1,2 +1,1 @@
-# Covid19-Analysis
-Python, Data Science and Machine Learning Projects Developed with Jupyter Notebook
+# Python, Data Science  And Machine Learning Projects
